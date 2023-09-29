@@ -1,4 +1,4 @@
-# TravelBnB - Votre Compagnon de Voyage Ultime
+# TripBooking - Votre Compagnon de Voyage Ultime
 
 TripBooking est une application web basée sur Laravel qui offre une plateforme fluide et conviviale aux voyageurs pour explorer et réserver des activités touristiques passionnantes. Inspirée par la simplicité et l'élégance d'Airbnb, notre objectif est de connecter les voyageurs à des expériences uniques et mémorables à travers le monde.
 
